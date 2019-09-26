@@ -1,0 +1,12 @@
+.navbar-nav a{
+  color: black;
+}
+
+.photo {
+  width: 100%;
+}
+
+body {
+  margin-right: 50px;
+  margin-left: 50px;
+}
